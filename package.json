@@ -14,8 +14,8 @@
   },
   "dependencies": {
     "@fontsource/roboto": "^5.2.10",
-    "@vuetify/v0": "^0.1.7",
-    "vue": "^3.5.30"
+    "@vuetify/v0": "1.0.0-beta.0",
+    "vue": "^3.5.35"
   },
   "devDependencies": {
     "@tsconfig/node22": "^22.0.5",
